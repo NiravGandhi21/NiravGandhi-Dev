@@ -10,7 +10,7 @@ My work explores how cameras, motion, and decentralized systems can combine to c
 ## 🚀 Currently Working On
 
 - Real-time **3D Human Motion Capture System**
-- Interactive **AI-powered developer portfolio**
+- Interactive **Developer portfolio**
 - Computer Vision–based perception tools
 - Web3-integrated intelligent platforms
 - Strengthening **C++ & Data Structures for high-performance systems**
