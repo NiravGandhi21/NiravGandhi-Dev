@@ -61,18 +61,13 @@ My work explores how cameras, motion, and decentralized systems can combine to c
 ## 📌 Project Interests
 
 - Motion Capture Systems Using Ml and Dl
-- Camera-based Interaction Interfaces
-- AI-powered Visual Applications
-- Decentralized Web Platforms
-- Real-time Perception Pipelines
 
 ---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: (add your link)
-- Portfolio: (add after building)
-- Email: (optional)
+- LinkedIn: https://www.linkedin.com/in/nirav-gandhi-42073a3a9/
+- Portfolio: 
 
 ---
 
