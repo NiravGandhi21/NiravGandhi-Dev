@@ -28,8 +28,6 @@ My work explores how cameras, motion, and decentralized systems can combine to c
 **Frontend**
 - React
 - Tailwind CSS
-- Three.js
-- Framer Motion
 
 **Backend**
 - Node.js
@@ -46,7 +44,6 @@ My work explores how cameras, motion, and decentralized systems can combine to c
 
 **Web3**
 - Solidity
-- Hardhat
 - ethers.js
 - MetaMask
 
